@@ -5,5 +5,9 @@ Experience the power of a fully-connected smart home that lets you remotely mana
 ## Key Features
 - **Remote Appliance Control:** Seamlessly control your home's devices through AWS IoT Core (eg. lighting systems, appliances, smart thermorstats and security systems).
 - **AI-Enhanced Security:** Utilize NVIDIA CUDA for real-time motion detection and facial recognition.
+<<<<<<< HEAD
 - **Real-Time Dashboard:** Visualize temperature, motion, and light levels with an interactive web dashboard (eg. FLASK + Plotly Dash).
+=======
+- **Real-Time Dashboard:** Visualize temperature, motion, and light levels with an interactive web dashboard.
+>>>>>>> 3ef6445a0b0b8c07e45035c93ac81df957bde119
 - **Data Logging:** Automatically store sensor data on AWS S3 and DynamoDB for analysis and record-keeping.
