@@ -1,9 +1,10 @@
-# Smart Home Automation System (AWS IoT + NVIDIA CUDA)
+# 🏠 **Smart Room Automation System**
 
-Experience the power of a fully-connected smart home that lets you remotely manage appliances, monitor sensor data, and leverage AI for enhanced security — all integrated with AWS and NVIDIA CUDA.
+*Experience the power of a smart room that lets you remotely manage appliances and monitor sensor data with a lightweight and efficient approach.*
 
-## Key Features
-- **Remote Appliance Control:** Seamlessly control your home's devices through AWS IoT Core (eg. lighting systems, appliances, smart thermorstats and security systems).
-- **AI-Enhanced Security:** Utilize NVIDIA CUDA for real-time motion detection and facial recognition.
-- **Real-Time Dashboard:** Visualize temperature, motion, and light levels with an interactive web dashboard (eg. FLASK + Plotly Dash).
-- **Data Logging:** Automatically store sensor data on AWS S3 and DynamoDB for analysis and record-keeping.
+## ✨ **Key Features**
+
+- 🔌 **Remote Appliance Control:** Seamlessly control your room's devices using a microcontroller (e.g., ESP8266/ESP32) and MQTT.
+- 🌡️ **Sensor Monitoring:** Track **temperature, motion, and light levels** using simple sensor modules.
+- 📊 **Interactive Dashboard:** Visualize real-time data with a user-friendly web interface (e.g., Flask + Plotly Dash).
+- 💾 **Local Data Logging:** Store sensor readings locally or on a lightweight database (e.g., SQLite) for **analysis and record-keeping**.
